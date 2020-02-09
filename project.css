@@ -1,0 +1,168 @@
+body{
+background-color: #7a7a7a;
+position: relative;
+margin: 0;
+padding: 0;
+
+}
+.hat{
+width: 150px;
+height: 100px;
+margin: auto;
+background: url(https://sun9-45.userapi.com/c857424/v857424495/171301/qrDEMpkrqw8.jpg)center no-repeat;
+background-size: contain;
+position: absolute;
+}
+.up{
+width: 700px;
+height: 350px;
+background: url(https://sun9-68.userapi.com/c857020/v857020495/d31f3/VMV5AB6JWhU.jpg) center no-repeat;
+background-size: contain;
+margin: auto;
+position: absolute;
+}
+.base{
+width: 700px;
+height: 1000px;
+margin:auto;
+background-color: #2b252e;
+position: absolute;
+}
+.text{
+color: white;
+text-align: center;
+padding: 0px;
+margin: 0px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.text1{
+color: white;
+padding: 5px;
+margin: 5px;
+font-family: 'Source Sans Pro', sans-serif;
+
+}
+a.button {
+font-weight: 600;
+color: white;
+text-decoration: none;
+padding:.7em 2em calc(.7em + 2px);
+border-radius: 7px;
+background: rgb(64,199,129);
+box-shadow: 0 -3px rgb(53,167,110) inset;
+transition: 0.2s;
+position: absolute;
+width: 100px;
+}
+a.button:hover { background: rgb(53, 167, 110); }
+a.button:active {
+background: rgb(33,147,90);
+box-shadow: 0 3px rgb(33,147,90) inset;
+}
+.buton{
+position:relative;
+}
+.image1{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: url(https://sun9-7.userapi.com/c857420/v857420495/166a3f/PfMLitCiYjc.jpg) center no-repeat;
+    background-size: contain;
+    border-radius: 40px;
+}
+.image2{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: url(https://sun9-41.userapi.com/c858532/v858532495/ce79d/qL2ws0_HPuA.jpg) center no-repeat;
+    background-size: contain;
+    border-radius: 40px;
+}
+.image3{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: url(https://sun9-14.userapi.com/c856032/v856032495/1e9afc/EeMNj3qOpvY.jpg) center no-repeat;
+    background-size: contain;
+    border-radius: 40px;
+}
+.paragraph1{
+    width: 500px;
+    height: 170px;
+    position: absolute;
+}
+.paragraph2{
+    width: 500px;
+    height: 170px;
+    position: absolute;
+}
+.paragraph3{
+    width: 500px;
+    height: 170px;
+    position: absolute;
+}
+a.button {
+font-weight: 600;
+color: white;
+text-decoration: none;
+padding:.7em 2em calc(.7em + 2px);
+border-radius: 7px;
+background: rgb(64,199,129);
+box-shadow: 0 -3px rgb(53,167,110) inset;
+transition: 0.2s;
+position: absolute;
+width: 100px;
+}
+a.button:hover { background: rgb(53, 167, 110); }
+a.button:active {
+background: rgb(33,147,90);
+box-shadow: 0 3px rgb(33,147,90) inset;
+}
+.buton{
+position:relative;
+}
+.bonds{
+width: 700px;
+height: 150px;
+margin:auto;
+background-color: #2b252e;
+position: absolute;
+}
+.vk{
+    width: 60px;
+    height: 60px;
+    background: url(https://image.flaticon.com/icons/svg/145/145813.svg);
+    position: absolute;
+}
+.facebook{
+    width: 60px;
+    height: 60px;
+    background: url(https://image.flaticon.com/icons/svg/1051/1051258.svg);
+    position: absolute;
+}
+.telegram{
+    width: 60px;
+    height: 60px;
+    background: url(https://image.flaticon.com/icons/svg/906/906377.svg)center no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+.inst{
+    width: 60px;
+    height: 60px;
+    background: url(https://image.flaticon.com/icons/svg/1384/1384063.svg) center no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+.twit{
+    width: 60px;
+    height: 60px;
+    background: url(https://image.flaticon.com/icons/svg/1409/1409937.svg) center no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+
+
+
+
+
