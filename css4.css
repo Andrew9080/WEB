@@ -1,0 +1,120 @@
+body{
+    background: #E6E6E6;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+h1{
+font-family: 'Merriweather Sans', ;
+font-family: 'Noto Sans KR', ;
+font-style: normal;
+padding: 3px;
+}
+.writing{
+    width: 1500px;
+    height: 800px;
+    position: relative;
+    margin-left: 70px;
+}
+/* .h3{
+font-size: 18px;
+line-height: 25px;
+padding: 2px 0 2px 0;
+}
+ */
+.container-1,.container-2{
+    display: flex;
+margin-left: 320px;
+position: relative;
+}
+.container-1 div.container-2 div{
+    padding: 50px;
+}
+.box-1{
+    padding: 80px;
+     width: 250px;
+}
+.box-2{
+    padding: 80px;
+     width: 250px;
+}
+.box-3{
+    padding: 80px;
+    width: 250px;
+}
+.box-4{
+    padding: 80px;
+    width: 250px;
+}
+.box-5{
+    padding: 80px;
+    width: 250px;
+}
+.box-6{
+    padding: 80px;
+    width: 250px;
+        
+}
+.img1{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:300px;
+    top:80px;    
+} 
+.img2{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:700px;
+    top:80px;
+}
+.img3{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:1100px;
+    top:80px;
+}
+.img4{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:1100px;
+    top:380px;
+}
+.img5{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:700px;
+    top:380px;
+}
+.img6{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:300px;
+    top:380px;
+}
+.textz{
+    font-weight: bolder;
+}
+
+
+
+
+
+
