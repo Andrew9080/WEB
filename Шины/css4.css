@@ -1,0 +1,111 @@
+body{
+    background: #E6E6E6;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+h1{
+font-family: 'Noto Sans' ;
+font-style: normal;
+padding: 3px;
+}
+.writing{
+    width: 1500px;
+    height: 800px;
+    position: relative;
+    margin-left: 70px;
+}
+.container-1,.container-2{
+    display: flex;
+margin-left: 320px;
+position: relative;
+}
+.container-1 div.container-2 div{
+    padding: 50px;
+}
+.box-1{
+    padding: 80px;
+     width: 250px;
+}
+.box-2{
+    padding: 80px;
+     width: 250px;
+}
+.box-3{
+    padding: 80px;
+    width: 250px;
+}
+.box-4{
+    padding: 80px;
+    width: 250px;
+}
+.box-5{
+    padding: 80px;
+    width: 250px;
+}
+.box-6{
+    padding: 80px;
+    width: 250px;
+        
+}
+.img1{
+    background: url(https://sun9-24.userapi.com/BqPcqz70nVXoXIL28DXF96LbzDfOh26X60yUPg/G2hnfwyT4bA.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:315px;
+    top:80px;    
+} 
+.img2{
+    background: url(https://sun9-35.userapi.com/M33LoWFadAkfX9tUsD51AEDfdWMIw9kM6p3oug/i8NQsxq7qdk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:710px;
+    top:80px;
+}
+.img3{
+    background: url(https://sun9-41.userapi.com/Mpu9wIvr9VieK-rUdRPD-dL8ojjCojBWfGoiYA/jIPTJlyxV4Q.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:1105px;
+    top:80px;
+}
+.img4{
+    background: url(https://sun9-20.userapi.com/6x3Ga576BDvn4aac7o_xZ6ciC74HhnKKrtNrlA/IUmARk2VdKk.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:1103px;
+    top:340px;
+}
+.img5{
+    background: url(https://sun9-9.userapi.com/ZvIBs3VcSgC9w2cqg6yHIuPoqnBAT-ZRkTGyhg/um2JdNX-Vno.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:708px;
+    top:340px;
+}
+.img6{
+    background: url(https://sun9-54.userapi.com/D8cpGl2cMYYvxOqCnvOSnJb5CwkksCWt46q3uQ/rh3QkkX9fOE.jpg) center no-repeat;
+    background-size: contain;
+    width: 83px;
+    height: 89px;
+    position: absolute;
+    left:314px;
+    top:340px;
+}
+.textz{
+    font-weight: bolder;
+}
+.color{
+    color:#646464;    
+    opacity:3;
+}

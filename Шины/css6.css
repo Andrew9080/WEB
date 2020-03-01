@@ -1,0 +1,54 @@
+body{
+    position: relative;
+}
+.form{
+    position: relative;
+}
+.h3{
+    position: absolute;
+width: 642px;
+height: 132px;
+left: 110px;
+top:190px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 45px;
+}
+.form_button{
+    position: absolute;
+width: 445px;
+height: 99px;
+left: 110px;
+top:400px;
+background: #1971A8;
+box-shadow: 0px 7px 10px rgba(1, 112, 181, 0.25);
+border-radius: 5px;
+font-size: 28px;
+    color:#FFFFFF;
+}
+.img-1{
+    position: absolute;
+left: 770px;
+top:200px
+}
+.img-2{
+position: absolute;
+left: 1220px;
+top:200px;
+}
+.img-3{
+    position: absolute;
+    top:200px;
+    left: 1666px
+}
+p{
+    position: absolute;
+    top:270px;
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+}
